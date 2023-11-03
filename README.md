@@ -1,4 +1,4 @@
-![image](https://github.com/virajmate7776/Publishing-Private-Message-SNS-VPC/assets/117629972/8da3b91c-a5e1-41d3-9cde-0dbe0335b142)
+
 # Publishing an Amazon SNS message from Amazon VPC Privately
 
 <br>
