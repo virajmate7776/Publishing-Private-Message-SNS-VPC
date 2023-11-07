@@ -3,6 +3,9 @@
 
 <br>
 <br>
+
+  ### Architecture :
+
 <br>
 
 ![image](https://github.com/virajmate7776/Publishing-Private-Message-SNS-VPC/assets/117629972/afa95beb-280f-4d06-9b74-4e407389e6d5)
